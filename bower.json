@@ -1,0 +1,20 @@
+{
+  "name": "my-test-bower-package",
+  "version": "0.0.0",
+  "authors": [
+    "Mark Campbell <nitrodist@gmail.com>"
+  ],
+  "description": "this is my test package!",
+  "main": "main.css",
+  "keywords": [
+    "none"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
